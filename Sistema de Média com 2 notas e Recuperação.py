@@ -5,7 +5,7 @@ sair = str(input('Insira X caso deseje fechar o programa:'))
 
 while ((sair != 'x') and (sair != 'X')):
 
-#Código para inserir as médiase logo após analisar os casos de Aprovado ou Reprovado.
+#Código para inserir as médias e logo após analisar os casos de Aprovado ou Reprovado.
     
     nota1 = float(input('Primeira Nota:'))
     nota2 = float(input('Segunda Nota:'))
