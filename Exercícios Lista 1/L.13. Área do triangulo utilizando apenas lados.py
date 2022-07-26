@@ -20,7 +20,7 @@ else:
     teorema = semip*(semip-lado1)*(semip-lado2)*(semip-lado3)
 
     if teorema <= 0:
-        print('Não é possível calcular a área deste triangulo pois não existe solução nos números reais para ele ou sua área total é igaual a 0')
+        print('Não é possível calcular a área deste triangulo pois não existe solução nos números reais para ele ou sua área total é igual a 0')
 
     else:
         area = math.sqrt(teorema)
