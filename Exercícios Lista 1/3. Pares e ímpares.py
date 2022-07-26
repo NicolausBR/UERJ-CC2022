@@ -25,7 +25,7 @@ while n != int(0):
     print('-'*45)
     print('')
                 
-    n = int(input('Insira a qauantia de termos a serem analisados (0 para encerrar o programa): '))
+    n = int(input('Insira a quantia de termos a serem analisados (0 para encerrar o programa): '))
     totalpares = 0
     totalimpares = 0
     somapares = 0
