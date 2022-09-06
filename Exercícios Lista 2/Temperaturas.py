@@ -13,7 +13,7 @@ somaC = 0
 somaF = 0
 
 
-for i in range (1,5):
+for i in range (1,51):
     cel = float(input(f'Insira o valor da {i}° temperatura em °C: '))
     fah = (cel*1.8)+32
     tempC.append(cel)
